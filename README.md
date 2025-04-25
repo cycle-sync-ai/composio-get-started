@@ -64,3 +64,14 @@ For more detailed information about Composio, check out the official documentati
 - [Composio Documentation](https://docs.composio.dev/)
 - [OpenAI API Documentation](https://platform.openai.com/docs/api-reference)
 - [GitHub API Documentation](https://docs.github.com/en/rest)
+
+# Author
+
+[Github](https://github.com/bigdata5911)
+[Telegram](https://t.me/bigdata5911)
+[Discord](https://discord.gg/pSEtb9sJf6)
+[Email](mailto:worker.opentext@gmail.com)
+
+👻 Please follow me for new updates [Dev.to](https://dev.to/cyclesync-ai) | [Github](https://github.com/bigdata5911) | [Github Org](https://github.com/cycle-sync-ai) <br />
+😉 Please join our discord server [Discord](https://discord.gg/pSEtb9sJf6) <br />
+💫 Please have an interesting relationship with me [Telegram](https://t.me/bigdata5911) | [Email](mailto:worker.opentext@gmail.com) <br />
